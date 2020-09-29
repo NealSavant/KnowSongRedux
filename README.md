@@ -14,7 +14,7 @@ Game modes include:
 
 - Identify song from 30 second audio segment
 
-- Identify song from lyrics (currently not available due to rate limiting issues)
+- Identify song from lyrics (Functional, but unable to scale due to rate limiting issues. disabled)
 
 ### Data Flow
 ![Diagram.png](https://user-images.githubusercontent.com/55298338/90298257-c27cde00-de4e-11ea-9e25-9375bbfb2c1b.png)
